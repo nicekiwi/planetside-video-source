@@ -1,0 +1,34 @@
+{
+  "creators": [
+    {
+      "id": "camikaze78",
+      "name": "CamiKaze78",
+      "twitter": "https://twitter.com/CAMIKAZE78",
+      "youtube": "https://www.youtube.com/channel/UCAEmJIcQb3Gq6jMELVksCOg",
+      "twitch": "https://www.twitch.tv/camikaze78",
+      "website": "",
+      "location": "Australia",
+      "servers": [ "Connery" ]
+    },
+    {
+      "id": "arsheetv",
+      "name": "ArsheeTV",
+      "twitter": "https://twitter.com/ArsheeTv",
+      "youtube": "https://www.youtube.com/channel/UC0M_-KrQkAPdQFpOpZP-b7g",
+      "twitch": "https://www.twitch.tv/arsheetv",
+      "website": "https://arsheetv.com/",
+      "location" : "",
+      "servers": [ "Connery", "Emerald" ]
+    },
+    {
+      "id": "cmdrcyrious",
+      "name": "Commander Cyrious",
+      "twitter": "https://twitter.com/CMDRCyrious",
+      "youtube": "https://www.youtube.com/channel/UCvzBzD-LygiE8RLLcxZCpoQ",
+      "twitch": "",
+      "website": "",
+      "location": "United States",
+      "servers": [ "Connery", "Emerald" ]
+    }
+  ]
+}
